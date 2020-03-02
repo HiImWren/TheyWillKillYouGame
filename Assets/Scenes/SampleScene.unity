@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
   m_LightingDataAsset: {fileID: 112000000, guid: a8042ac62c2c3f648ae0d94fd28ab719,
     type: 2}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -565,7 +565,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 288078942}
-  m_LocalRotation: {x: 0.56062883, y: -0.000000035619777, z: 0.000000024115499, w: 0.82806724}
+  m_LocalRotation: {x: 0.56062883, y: 0.000000035620424, z: -0.000000024116465, w: 0.82806724}
   m_LocalPosition: {x: 0.4, y: 12.41, z: -38.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -723,6 +723,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: fe39de8c3b9001445a1af652ae87fc2c, type: 2}
   - {fileID: 11400000, guid: 812e6144c16a981488649b86a7b6be1a, type: 2}
   - {fileID: 11400000, guid: 897c175c0c1f48f4dbeaff87e507d42d, type: 2}
+  - {fileID: 11400000, guid: a289ca96465812f43ad41840cd6f0e6c, type: 2}
+  - {fileID: 11400000, guid: a1e8901a92267904ca33b02afe420606, type: 2}
+  - {fileID: 11400000, guid: f9d56c3d582e67449b942466d173527e, type: 2}
   wave: -1
   waveKills: 0
   waveTarget: 0
@@ -5929,7 +5932,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 975655282}
-  m_LocalRotation: {x: 0.56062883, y: -0.000000035619777, z: 0.000000024115499, w: 0.82806724}
+  m_LocalRotation: {x: 0.56062883, y: 0.000000035620424, z: -0.000000024116465, w: 0.82806724}
   m_LocalPosition: {x: 0.4, y: 12.41, z: -38.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []

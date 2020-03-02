@@ -15,7 +15,7 @@ MonoBehaviour:
   maxHp: 3
   damageToPlayer: 1
   speed: 2
-  PoolMaxSize: 100
+  PoolMaxSize: 200
   width: 0.25
   modelPrefab: {fileID: 844108313319410501, guid: ef862df98f45e4c498b0bb1d13063ea4,
     type: 3}
